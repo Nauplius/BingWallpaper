@@ -1,3 +1,7 @@
+**Repository Moved**
+
+This repository has moved to [tseward/BingWallpaper](https://github.com/tseward/BingWallpaper).
+
 # Bing Wallpaper
 
 This script and scheduled task sets the Bing Wallpaper automatically using the current Bing image of the day.
